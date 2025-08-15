@@ -94,9 +94,9 @@ function AnimatedHero() {
         transition={{ duration: 1 }}
         className="hero-content"
       >
-        <h1 className="hero-title">
+        <h2 className="hero-title">
           Find Your Perfect Business Space
-        </h1>
+        </h2>
         <p className="hero-subtitle">
           Premium offices & retail locations across South India’s top cities.
         </p>

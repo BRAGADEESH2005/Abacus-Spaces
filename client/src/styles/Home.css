@@ -114,7 +114,7 @@
 }
 
 .hero-details {
-  margin-top: 2rem;
+  margin-top: 1rem;
   border-radius: 18px;
   box-shadow: 0 2px 16px rgba(25, 118, 210, 0.08);
   padding: 2rem 1.5rem;
@@ -175,7 +175,7 @@
 /* ...existing styles... */
 
 .hero-details-cards {
-  margin-top: 2.5rem;
+ 
   padding: 2.5rem 2rem;
   max-width: 1000px;
   margin-left: auto;
